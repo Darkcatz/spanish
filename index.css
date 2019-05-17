@@ -17,6 +17,8 @@ body, html {
     height: 100%;
     background-image: url("/imgs/nature-hd-background-20.jpg");
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .parallax { 
     /* The image used */
@@ -32,20 +34,18 @@ body, html {
 }
 .text{
     text-align: center;
-    margin-top: 50%;
+    margin-top: 5%;
     font-family: 'Baloo Bhai', cursive;
     color:rgb(0, 104, 22);
 }
 .section1{
-    background: rgb(0, 104, 22);
+    background: url("/imgs/landscape-like-mexico_71ba42a48f3186b2.jpg");
     height: 100%;
     width: 16.666666%;
     float: left;
     margin-left:0;
-}
-.section1:hover{
-    background: rgb(0, 173, 38);
-    transition-duration: 1s;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -55,15 +55,14 @@ body, html {
 
 
 .section2{
-    background: rgb(0, 104, 22);
+    background: url("/imgs/994a1b8b68e077683ed412d98d54d58e.jpg");
     height: 100%;
     width: 16.6666%;
     float: left;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-.section2:hover{
-    background: rgb(0, 173, 38);
-    transition-duration: 1s;
-}
+
 
 
 
@@ -77,31 +76,28 @@ body, html {
 
 .text1{
     text-align: center;
-    margin-top: 50%;
+    margin-top: 5%;
     font-family: 'Baloo Bhai', cursive;
     color:white;
 }
 
 
 .section3{
-    background: rgb(255, 255, 255);
+    background: url("/imgs/91957.jpg");
     height: 100%;
     width: 16.666%;
     float: left;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-.section3:hover{
-    background: rgb(0, 173, 38);
-    transition-duration: 1s;
-}
+
 .section4{
-    background: rgb(255, 255, 255);
+    background: url("/imgs/91952.jpg");
     height: 100%;
     width: 16.666666666%;
     float: left;
-}
-.section4:hover{
-    background: rgb(0, 173, 38);
-    transition-duration: 1s;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
@@ -109,25 +105,26 @@ body, html {
 
 .text2{
     text-align: center;
-    margin-top: 50%;
+    margin-top: 5%;
     font-family: 'Baloo Bhai', cursive;
     color:rgb(209, 0, 0);
 }
 .section5{
-    background: rgb(209, 0, 0);
+    background: url("/imgs/0sFNOA.jpg");
     height: 100%;
     width: 16.666666%;
     float: left;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-.section5:hover{
-    background:white;
-    transition-duration: 1s;
-}
+
 .section6{
-    background: rgb(209, 0, 0);
+    background: url("/imgs/KxUQNB.jpg");
     height: 100%;
     width: 16.666666%;
     float: left;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
