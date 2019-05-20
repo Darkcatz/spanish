@@ -1,0 +1,86 @@
+.title{
+    text-align: center;
+    border: 2px solid;
+    border-radius: 10px;
+    max-width: 50%;
+    margin-left: 25%;
+    background: rgba(255, 255, 255, 0.247);
+    font-family: 'Nunito', sans-serif;
+}
+.body1{
+    background: url("/imgs/landscape-like-mexico_71ba42a48f3186b2.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body2{
+    background: url("/imgs/994a1b8b68e077683ed412d98d54d58e.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body3{
+    background: url("/imgs/91957.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body4{
+    height: 100%;
+    background: url("/imgs/91952.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body5{
+    background: url("/imgs/0sFNOA.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table,th,td{
+    border: 2px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+    font-size: 20px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: 10px;
+    background: rgba(255, 255, 255, 0.473);
+    border-radius: 10px;
+    padding: 5px;
+
+    
+}
+table{
+    margin: 20px;
+    margin-left: 20%;
+    float: left;
+    border-radius: 4px;
+    border-collapse: collapse;
+}
+.comp{
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+    border: 3px solid white;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px
+}
+#title{
+    border-bottom: 1px solid black;
+}
+.section{
+    background:white;
+    text-align: center;
+    margin:20px;
+
+    
+
+}
+.ex{
+    background:yellow;
+}
